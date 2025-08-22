@@ -1,0 +1,14 @@
+C:\Users\hirem\source\repos\CardGameApp\CardGameApp\obj\Debug\net8.0\CardGameApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hirem\source\repos\CardGameApp\CardGameApp\obj\Debug\net8.0\CardGameApp.AssemblyInfoInputs.cache
+C:\Users\hirem\source\repos\CardGameApp\CardGameApp\obj\Debug\net8.0\CardGameApp.AssemblyInfo.cs
+C:\Users\hirem\source\repos\CardGameApp\CardGameApp\obj\Debug\net8.0\CardGameApp.csproj.CoreCompileInputs.cache
+C:\Users\hirem\source\repos\CardGameApp\CardGameApp\bin\Debug\net8.0\CardGameApp.exe
+C:\Users\hirem\source\repos\CardGameApp\CardGameApp\bin\Debug\net8.0\CardGameApp.deps.json
+C:\Users\hirem\source\repos\CardGameApp\CardGameApp\bin\Debug\net8.0\CardGameApp.runtimeconfig.json
+C:\Users\hirem\source\repos\CardGameApp\CardGameApp\bin\Debug\net8.0\CardGameApp.dll
+C:\Users\hirem\source\repos\CardGameApp\CardGameApp\bin\Debug\net8.0\CardGameApp.pdb
+C:\Users\hirem\source\repos\CardGameApp\CardGameApp\obj\Debug\net8.0\CardGameApp.dll
+C:\Users\hirem\source\repos\CardGameApp\CardGameApp\obj\Debug\net8.0\refint\CardGameApp.dll
+C:\Users\hirem\source\repos\CardGameApp\CardGameApp\obj\Debug\net8.0\CardGameApp.pdb
+C:\Users\hirem\source\repos\CardGameApp\CardGameApp\obj\Debug\net8.0\CardGameApp.genruntimeconfig.cache
+C:\Users\hirem\source\repos\CardGameApp\CardGameApp\obj\Debug\net8.0\ref\CardGameApp.dll
