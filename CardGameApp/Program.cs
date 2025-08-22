@@ -22,7 +22,7 @@
                 game.Play();
             }
 
-            Console.WriteLine(player1.CardLeft ? $"{player1} wins this round" : $"{player2} wins this round");
+            Console.WriteLine(player1.CardLeft ? $"{player1.Name} wins this game!" : $"{player2.Name} wins this game!");
 
         }
     }

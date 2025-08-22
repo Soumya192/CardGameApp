@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JvCFZE/AQGE=",
+  "dgSpecHash": "A0I1TmEoSu4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hirem\\CardGameApp\\CardGameTestApp\\CardGameTestApp.csproj",
+  "projectFilePath": "C:\\Users\\hirem\\source\\repos\\Final\\CardGameTestApp\\CardGameTestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hirem\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\hirem\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

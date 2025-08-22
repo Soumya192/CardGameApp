@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hirem\\CardGameApp\\CardGameApp\\CardGameApp.csproj": {}
+    "C:\\Users\\hirem\\source\\repos\\Final\\CardGameApp\\CardGameApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hirem\\CardGameApp\\CardGameApp\\CardGameApp.csproj": {
+    "C:\\Users\\hirem\\source\\repos\\Final\\CardGameApp\\CardGameApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hirem\\CardGameApp\\CardGameApp\\CardGameApp.csproj",
+        "projectUniqueName": "C:\\Users\\hirem\\source\\repos\\Final\\CardGameApp\\CardGameApp.csproj",
         "projectName": "CardGameApp",
-        "projectPath": "C:\\Users\\hirem\\CardGameApp\\CardGameApp\\CardGameApp.csproj",
+        "projectPath": "C:\\Users\\hirem\\source\\repos\\Final\\CardGameApp\\CardGameApp.csproj",
         "packagesPath": "C:\\Users\\hirem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hirem\\CardGameApp\\CardGameApp\\obj\\",
+        "outputPath": "C:\\Users\\hirem\\source\\repos\\Final\\CardGameApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

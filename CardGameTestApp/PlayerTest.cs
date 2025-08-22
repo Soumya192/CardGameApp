@@ -18,7 +18,7 @@ namespace CardGameTestApp
 
             Assert.Empty(player.Drawpile);
             var card= player.DrawCard();
-            Assert.Equal(card,10);
+            Assert.Equal(10,card);
             Assert.Empty(player.DiscardPile);
         }
 

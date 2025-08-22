@@ -52,7 +52,7 @@ namespace CardGameApp
             //if both cards have same value its a tie
             else
             {
-                Console.WriteLine("No winner in this round (tie)");
+                Console.WriteLine("No winner in this round");
                 // keep tiePile until next round decides the winner
             }
 
