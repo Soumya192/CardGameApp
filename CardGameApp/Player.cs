@@ -12,7 +12,7 @@ namespace CardGameApp
         public Queue<int> Drawpile {  get; set;}
         public List<int> DiscardPile = new List<int>();
         public bool CardLeft => Drawpile.Count > 0 || DiscardPile.Count > 0;
-        public int TotalCards => Drawpile.Count + DiscardPile.Count;
+        public int TotalCards => Drawpile.Count + DiscardPile.Count ;
 
         public Player(String name, List<int> deck)
         {

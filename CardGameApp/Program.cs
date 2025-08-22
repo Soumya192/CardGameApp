@@ -11,8 +11,8 @@
             //Shuffle the deck
             Game.ShuffleDeck(deck);
 
-            var player1 = new Player("Player 1", deck.Take(21).ToList());
-            var player2 = new Player("Player 2", deck.TakeLast(21).ToList());
+            var player1 = new Player("Player 1", deck.Take(20).ToList());
+            var player2 = new Player("Player 2", deck.TakeLast(20).ToList());
 
             Game game = new Game(player1,player2);
 

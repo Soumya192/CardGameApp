@@ -20,12 +20,16 @@ namespace CardGameApp
 
         public  void Play()
         {
+            //getting card couunt before draw
+            int p1CardCount = player1.TotalCards;
+            int p2CardCount = player2.TotalCards;
+
             //Draw a card for each player from the drawpile
             int card1 = player1.DrawCard();
             int card2 = player2.DrawCard();
 
-            Console.WriteLine($"{player1.Name} ({player1.TotalCards} cards): {card1}");
-            Console.WriteLine($"{player2.Name} ({player2.TotalCards} cards): {card2}");
+            Console.WriteLine($"{player1.Name} ({p1CardCount} cards): {card1}");
+            Console.WriteLine($"{player2.Name} ({p2CardCount} cards): {card2}");
 
             // Add cards to tie pile
             tiePile.Enqueue(card1);

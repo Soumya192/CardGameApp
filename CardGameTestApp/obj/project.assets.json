@@ -5530,11 +5530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hirem\\source\\repos\\CardGameApp\\CardGameTestApp\\CardGameTestApp.csproj",
+      "projectUniqueName": "C:\\Users\\hirem\\CardGameApp\\CardGameTestApp\\CardGameTestApp.csproj",
       "projectName": "CardGameTestApp",
-      "projectPath": "C:\\Users\\hirem\\source\\repos\\CardGameApp\\CardGameTestApp\\CardGameTestApp.csproj",
+      "projectPath": "C:\\Users\\hirem\\CardGameApp\\CardGameTestApp\\CardGameTestApp.csproj",
       "packagesPath": "C:\\Users\\hirem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hirem\\source\\repos\\CardGameApp\\CardGameTestApp\\obj\\",
+      "outputPath": "C:\\Users\\hirem\\CardGameApp\\CardGameTestApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5555,8 +5555,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\hirem\\source\\repos\\CardGameApp\\CardGameApp\\CardGameApp.csproj": {
-              "projectPath": "C:\\Users\\hirem\\source\\repos\\CardGameApp\\CardGameApp\\CardGameApp.csproj"
+            "C:\\Users\\hirem\\CardGameApp\\CardGameApp\\CardGameApp.csproj": {
+              "projectPath": "C:\\Users\\hirem\\CardGameApp\\CardGameApp\\CardGameApp.csproj"
             }
           }
         }

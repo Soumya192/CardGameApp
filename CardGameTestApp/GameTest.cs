@@ -20,7 +20,7 @@ namespace CardGameTestApp
             var originalDeck = new List<int>(deck);
             Game.ShuffleDeck(deck);
 
-            Assert.NotEqual(originalDeck, deck);         
+            Assert.NotEqual(originalDeck, deck);
 
         }
 
@@ -29,8 +29,8 @@ namespace CardGameTestApp
         {
             var deck1 = new List<int> { 1 };
             var deck2 = new List<int> { 10 };
-            var player1 = new Player("Player1",deck1);
-            var player2 = new Player("Player2",deck2);
+            var player1 = new Player("Player1", deck1);
+            var player2 = new Player("Player2", deck2);
             Game game = new Game(player1, player2);
 
 
@@ -46,20 +46,21 @@ namespace CardGameTestApp
         [Fact]
         public void tilepile()
         {
-            var deck1 = new List<int> { 1,10 };
+            var deck1 = new List<int> { 1, 10 };
             var deck2 = new List<int> { 1, 1 };
             var player1 = new Player("Player1", deck1);
             var player2 = new Player("Player2", deck2);
-            Game game = new Game(player1 , player2);
+            Game game = new Game(player1, player2);
             var Output = new StringWriter();
 
             Console.SetOut(Output);
 
             game.Play();
             game.Play();
-            Assert.Equal(4,player1.TotalCards);
-            Assert.Equal(0,player2.TotalCards);
+            Assert.Equal(4, player1.TotalCards);
+            Assert.Equal(0, player2.TotalCards);
 
         }
+
     }
 }
